@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Yin Cui</copyright>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,21 +15,26 @@
     <item>
       <title>About</title>
       <link>/home/about/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a Research Scientist at Google. Before joining Google, I received my Ph.D. in Computer Science from Cornell University and Cornell Tech in 2019, advised by Professor Serge Belongie. My research interests are Computer Vision and Machine Learning.</description>
+      <description>Hi, I am Yin Cui (崔崟 in Chinese, pronounced as /yin tsui/), a Research Scientist at Google. Before joining Google, I obtained my Ph.D. in Computer Science from Cornell University and Cornell Tech in 2019, advised by Professor Serge Belongie. My research interests are Computer Vision and Machine Learning.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>/home/lists/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/home/lists/</guid>
-      <description>2020  Golnaz Ghiasi*, Yin Cui*, Aravind Srinivas*, Rui Qian, Tsung-Yi Lin, Ekin D. Cubuk, Quoc V. Le, Barret Zoph. Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation. arXiv:2012.07177 [arXiv]
- Rui Qian*, Tianjian Meng*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui. Spatiotemporal Contrastive Video Representation Learning. arXiv:2008.03800 [arXiv]
- Barret Zoph*, Golnaz Ghiasi*, Tsung-Yi Lin*, Yin Cui, Hanxiao Liu, Ekin D. Cubuk, Quoc V.</description>
+      <description>2020 Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation
+Golnaz Ghiasi*, Yin Cui*, Aravind Srinivas*, Rui Qian, Tsung-Yi Lin, Ekin D. Cubuk, Quoc V. Le, Barret Zoph
+arXiv:2012.07177 [arXiv]
+Spatiotemporal Contrastive Video Representation Learning
+Rui Qian*, Tianjian Meng*, Boqing Gong, Ming-Hsuan Yang, Huisheng Wang, Serge Belongie, Yin Cui
+arXiv:2008.03800 [arXiv]
+Rethinking Pre-training and Self-training
+Barret Zoph*, Golnaz Ghiasi*, Tsung-Yi Lin*, Yin Cui, Hanxiao Liu, Ekin D. Cubuk, Quoc V.</description>
     </item>
     
     <item>
