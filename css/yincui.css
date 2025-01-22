@@ -1132,7 +1132,6 @@ div.alert a:hover {
 }
 
 .publication-entry {
-  display: flex;
   align-items: center;
   margin-bottom: 20px;
 }
