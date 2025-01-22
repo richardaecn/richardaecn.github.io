@@ -1139,15 +1139,22 @@ div.alert a:hover {
 
 .teaser-image {
   flex: 0 0 300px;
-  margin-right: 20px;
+  margin-right: 0px;
 }
 
 .teaser-video {
   flex: 0 0 300px;
-  margin-right: 20px;
+  margin-right: 0px;
 }
 
 .teaser-image img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.teaser-video video {
   width: 100%;
   height: auto;
   border: 1px solid #ddd;
