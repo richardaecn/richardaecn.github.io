@@ -266,7 +266,7 @@ blockquote p:last-child {
   font-size: 1.5em;
   font-weight: 300;
   color: #000000;
-  margin: 10px 0 5px 0;
+  margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
@@ -1129,4 +1129,31 @@ div.alert a:hover {
   color: #fff;
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
+}
+
+.publication-entry {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.teaser-image {
+  flex: 0 0 300px;
+  margin-right: 20px;
+}
+
+.teaser-video {
+  flex: 0 0 300px;
+  margin-right: 20px;
+}
+
+.teaser-image img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.publication-text {
+  flex: 1;
 }
